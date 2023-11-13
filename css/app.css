@@ -1,0 +1,106 @@
+html, body {
+    background: #223;
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.wtitle {
+    text-align: center;
+    color: #fff;
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+.card {
+    width: 90%;
+    max-width: 470px;
+    background: linear-gradient(135deg, #224, #5b548a);
+    color: #fff;
+    margin: 0px auto 0;
+    border-radius: 20px;
+    padding: 40px 35px;
+}
+.card .search {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.card .search input {
+    border: 0;
+    outline: 0;
+    background: #f5fffe;
+    color: #555;
+    padding: 10px 25px;
+    height: 60px;
+    border-radius: 30px;
+    flex: 1;
+    margin-right: 16px;
+    font-size: 18px;
+}
+.card .search button {
+    border: 0;
+    outline: 0;
+    background: #f5fffe;
+    color: #555;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+}
+.card .search button:hover, .card .search button:focus {
+    opacity: 0.8;
+    transition: all .2s ease-in-out;
+}
+.card .search button img {
+    width: 17px;
+}
+.card .weather {
+    text-align: center;
+}
+.card .weather-icon {
+    width: 172px;
+    margin-top: 30px;
+}
+.card .weather h1 {
+    font-size: 80px;
+    margin-top: 5px;
+    font-weight: 500;
+}
+.card .weather h2 {
+    font-size: 45px;
+    font-weight: 400;
+    margin-top: -30px;
+}
+.card .details {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    margin-top: 50px;
+}
+.details .col {
+    display: flex;
+    align-items: center;
+    text-align: left;
+}
+.col img {
+    width: 40px;
+    margin-right: 10px;
+    margin-right: 15px;
+}
+.humidity, .wind {
+    font-size: 28px;
+    margin-top: 0px;
+    margin-bottom: -5px;
+}
+.error {
+    color: red;
+    padding: 13px;
+    text-align: center;
+    margin-top: 50px;
+    border-radius: 150px;
+}
+.hidden {
+    display: none;
+}
