@@ -1,9 +1,6 @@
 # JS Weather App
 ![alt text](https://github.com/aadesigner/weatherapp/blob/master/cover.jpg?raw=true)
-**About**: A lightweight Weather App built with HTML, CSS and JavaScript.  
-
--  
-
+**About**: A Weather App built with HTML, CSS and JavaScript.  
 **Made by**: AADesigner  
 **Github**: https://github.com/aadesigner
 
