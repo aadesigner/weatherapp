@@ -1,7 +1,7 @@
 # JS Weather App
-**About**: A lightweight & modern JS Weather App built with HTML, CSS and JavaScript.
-**Creator**: AADesigner
-**Creator**: AADesigner
+**About**: A lightweight & modern JS Weather App built with HTML, CSS and JavaScript.  
+**Made by**: AADesigner  
+**Github**: https://github.com/aadesigner
 
 **Installation:**
 1. Download weatherapp project.
